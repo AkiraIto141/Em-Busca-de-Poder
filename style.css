@@ -8,6 +8,9 @@ body {
     height: 700px;
     margin-top: 1%;
 }
+main{
+    margin-top: 15%;
+}
 
 button {
     background-color: #64A712;
